@@ -126,7 +126,93 @@ p ∨ q
 </blockquote>
 </details>
 
+# 2. 📊 Ejercicios resueltos 
+
+- Traducción de lenguaje natural a simbólico
+  
+  📕 *Ejercicio 1*
+  <img width="1358" height="333" alt="image" src="https://github.com/user-attachments/assets/bef9e696-8b80-4798-bc43-8d83156d7459" />
+
+
+  📕 *Ejercicio 2*
+  <img width="1664" height="371" alt="image" src="https://github.com/user-attachments/assets/9a644fef-a893-4b0d-87e9-887f247a581c" />
+
+  📕 *Ejercicio 3*
+  <img width="1055" height="257" alt="image" src="https://github.com/user-attachments/assets/26d4676d-2912-4c8b-96e4-b358891567e3" />
+
+  📕 *Ejercicio 4*
+  <img width="1060" height="210" alt="image" src="https://github.com/user-attachments/assets/10a5fc4c-4141-426b-8fb0-3ce7051ff4a6" />
+
+
+  📕 *Ejercicio 5*
+  <img width="1037" height="236" alt="image" src="https://github.com/user-attachments/assets/b45a1321-081c-4fde-b351-e7a15b2aed62" />
+
+  
+- Construcción de tablas de verdad
+ 📘 *Ejercicio 1*
+
+ 📘 *Ejercicio 2*
+ 
+ 📘 *Ejercicio 3*
+ 
+ 📘 *Ejercicio 4*
+ 
+ 📘 *Ejercicio 5*
+
+
+ - Identificación de tautologías, contradicciones y contingencias
+   📗*Ejercicio 1*
+   
+   📗*Ejercicio 2*
+   
+   📗*Ejercicio 3*
+   
+   📗*Ejercicio 4*
+   
+   📗*Ejercicio 5*
+   
+   
+ - Aplicación de leyes proposicionales
+   📙*Ejercicio 1*
+   
+   
+   📙*Ejercicio 2*
+   
+   📙*Ejercicio 3*
+   
+   📙*Ejercicio 4*
+   
+   📙*Ejercicio 5*
+   
+
+   - Validación de argumentos
+     📒*Ejercicio 1*
+     <img width="966" height="261" alt="image" src="https://github.com/user-attachments/assets/837679a9-6320-470a-9c0d-a8a6ba85e764" />
+
+     📒*Ejercicio 2*
+     <img width="989" height="295" alt="image" src="https://github.com/user-attachments/assets/1457323c-a869-424d-a473-28c3c812d1de" />
+
+     📒*Ejercicio 3*
+     <img width="1094" height="359" alt="image" src="https://github.com/user-attachments/assets/4dafde3f-29a7-4038-bb22-cc444b5d7363" />
+
+     
+     📒*Ejercicio 4*
+     <img width="1094" height="322" alt="image" src="https://github.com/user-attachments/assets/6fb5b199-c08b-443e-b097-8a803137adfa" />
+
+     
+     📒*Ejercicio 5*
+     <img width="1029" height="331" alt="image" src="https://github.com/user-attachments/assets/23b06d12-be49-487a-a96a-7b35f7e1cf07" />
+
+     
+   
+- 
+
 # 🧠 Ejercicio Aplicado: El Dilema del Estudiante
+
+<img width="763" height="707" alt="image" src="https://github.com/user-attachments/assets/79defea4-c2be-40d1-ab2f-febbcbf40e45" />
+<img width="1175" height="297" alt="image" src="https://github.com/user-attachments/assets/567fdccf-e876-4a9a-aa73-f552853d6797" />
+
+
 # 4. 🔍 Reflexión personal
 Responder:
 
@@ -149,6 +235,17 @@ Como estudiante de Ingeniería en Ciencias de la Computación, la lógica es la 
 - Arquitectura de Computadores: En el diseño de circuitos digitales y sistemas embebidos, donde las compuertas lógicas determinan el procesamiento de la información a nivel de hardware.
 
 - Base de Datos: Al realizar consultas complejas (SQL), donde el uso correcto de los operadores lógicos es vital para filtrar la información de manera precisa.
+
+---
+
+  # 💡 Declaración de IA 
+  En el desarrollo del presente trabajo académico titulado "Lógica Proposicional y Reglas de Inferencia", he utilizado herramientas de Inteligencia Artificial Generativa como apoyo técnico y didáctico. El uso de estas herramientas se limitó a las siguientes funciones:
+
+- Estructuración y Formato: Organización de los contenidos y aplicación de sintaxis Markdown/LaTeX para la correcta visualización en la plataformas GitHub.
+
+- Clarificación de Conceptos: Consulta de ejemplos adicionales sobre leyes lógicas y reglas de inferencia para fortalecer la comprensión teórica.
+
+- Revisión Gramatical: Optimización de la redacción en las secciones de reflexión personal.
 
 
 

@@ -120,3 +120,5 @@ Como estudiante de Ingeniería en Ciencias de la Computación, la lógica es la 
 - Base de Datos: Al realizar consultas complejas (SQL), donde el uso correcto de los operadores lógicos es vital para filtrar la información de manera precisa.
 
 
+
+

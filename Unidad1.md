@@ -2,7 +2,10 @@
 
 ## Unidad 1
 
-### 1.  Definición de Proposición
+<details>
+<summary><b>🔮 Definición de proposición</b></summary>
+<blockquote> 
+
         
 Una proposición es una oración o enunciado que tiene la propiedad de ser verdadero (V) o falso (F), pero nunca ambos a la vez.
 
@@ -10,8 +13,13 @@ Es proposición: "El número 4 es par" (V), "Quito es la capital de Francia" (F)
 
 No es proposición: Las preguntas, órdenes o exclamaciones ("¡Hola!", "¿Cómo estás?", "Limpia tu cuarto"), ya que no se pueden calificar como verdaderas o falsas.
 
-### 2. Tipos de ProposicionesSimples (Atómicas): 
+</blockquote>
+</details>
 
+
+<details>
+<summary><b>🔮 Definición de proposición</b></summary>
+<blockquote>
 No tienen conectores. Expresan una sola idea.
 
 Ejemplo: 
@@ -22,7 +30,13 @@ Compuestas (Moleculares): Se forman uniendo dos o más proposiciones simples med
 
 Ejemplo: "El cielo es azul y hoy es lunes".
 
-### 3. Conectores Lógicos
+</blockquote>
+</details>
+
+
+<details>
+<summary><b>🔮 Conectores lógicos (∧, ∨, ¬, →, ↔)</b></summary>
+<blockquote>
 Los conectores son los operadores que permiten combinar proposiciones simples.
 
 | Conector | Nombre | Símbolo | Significado |
@@ -35,7 +49,12 @@ Los conectores son los operadores que permiten combinar proposiciones simples.
 
 ---
 
-### 4. Explicación de Tablas de Verdad
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔮 Explicación de tablas de verdad</b></summary>
+<blockquote> 
 Las tablas de verdad permiten analizar todas las combinaciones posibles de valores para determinar la validez de una proposición compuesta.
 
 **Fórmula de filas:** $2^n$ (donde $n$ es el número de proposiciones variables).
@@ -47,16 +66,25 @@ Las tablas de verdad permiten analizar todas las combinaciones posibles de valor
 
 ---
 
----
+</blockquote>
+</details>
 
-### 5. Principales Leyes Lógicas (Equivalencias)
+
+<details>
+<summary><b>🔮 Principales leyes lógicas</b></summary>
+<blockquote>
 Estas reglas permiten simplificar expresiones lógicas complejas:
 
 <img width="522" height="418" alt="image" src="https://github.com/user-attachments/assets/99cad698-1fbd-4c7e-b46d-9db3eb5495a9" />
 
 ---
+</blockquote>
+</details>
 
-### 6. Reglas de Inferencia
+
+<details>
+<summary><b>🔮 Reglas de inferencia</b></summary>
+<blockquote>
 Son esquemas lógicos que permiten obtener conclusiones válidas a partir de premisas dadas.
 
 #### Modus Tollendo Tollens (MTT)
@@ -95,6 +123,9 @@ p ∨ q
 ∴ q
 
 ---
+</blockquote>
+</details>
+
 # 🧠 Ejercicio Aplicado: El Dilema del Estudiante
 # 4. 🔍 Reflexión personal
 Responder:

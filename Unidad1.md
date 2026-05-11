@@ -150,39 +150,68 @@ p ∨ q
   
 - Construcción de tablas de verdad
  📘 *Ejercicio 1*
+<img width="685" height="277" alt="image" src="https://github.com/user-attachments/assets/0025efcb-72f6-493a-8011-c951eed3d70e" />
+
 
  📘 *Ejercicio 2*
+ <img width="636" height="278" alt="image" src="https://github.com/user-attachments/assets/12d532b9-d2d7-4a17-b2a2-c526bec96501" />
+
  
  📘 *Ejercicio 3*
+ <img width="742" height="401" alt="image" src="https://github.com/user-attachments/assets/ebbaed56-052f-4a6f-8d44-edbe9684178f" />
+
  
  📘 *Ejercicio 4*
+ <img width="569" height="391" alt="image" src="https://github.com/user-attachments/assets/041b0da0-328c-4720-b748-971cd66e049a" />
+
  
  📘 *Ejercicio 5*
+ <img width="420" height="218" alt="image" src="https://github.com/user-attachments/assets/5c69ec75-c106-453e-a691-3ebde7bdbb02" />
 
 
  - Identificación de tautologías, contradicciones y contingencias
    📗*Ejercicio 1*
+   <img width="833" height="632" alt="image" src="https://github.com/user-attachments/assets/16fd76e0-bc96-484f-a59d-3e4a5fff0a8a" />
+
    
    📗*Ejercicio 2*
+   <img width="996" height="594" alt="image" src="https://github.com/user-attachments/assets/1a2555d9-5408-49e9-ba85-90eee7ed90b8" />
+
    
    📗*Ejercicio 3*
+   <img width="913" height="283" alt="image" src="https://github.com/user-attachments/assets/e033b0c1-2d4d-4593-9804-f520fb50d50d" />
+
+   
    
    📗*Ejercicio 4*
+   <img width="987" height="276" alt="image" src="https://github.com/user-attachments/assets/c2ea87d6-0360-49ba-bda8-42c336fd9916" />
+
    
    📗*Ejercicio 5*
+   <img width="929" height="287" alt="image" src="https://github.com/user-attachments/assets/162d17c1-cf51-4448-8dd0-d2761e887973" />
+
    
    
  - Aplicación de leyes proposicionales
    📙*Ejercicio 1*
-   
+   <img width="1073" height="396" alt="image" src="https://github.com/user-attachments/assets/44c24e07-eaa6-4b98-a61b-676a6b05d43b" />
+
    
    📙*Ejercicio 2*
+   <img width="907" height="236" alt="image" src="https://github.com/user-attachments/assets/ca7bdd21-489c-4695-b3b7-02e6dee68d3d" />
+
    
    📙*Ejercicio 3*
+   <img width="986" height="688" alt="image" src="https://github.com/user-attachments/assets/099717e6-af16-4496-b370-fdc1f9bc35dc" />
+
    
    📙*Ejercicio 4*
+   <img width="1059" height="425" alt="image" src="https://github.com/user-attachments/assets/f533f744-f1f0-4e46-8e6e-d532be998562" />
+
    
    📙*Ejercicio 5*
+   <img width="569" height="309" alt="image" src="https://github.com/user-attachments/assets/eb2926d6-c5dd-41be-b36f-aa74c600e7bd" />
+
    
 
    - Validación de argumentos

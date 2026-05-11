@@ -276,6 +276,12 @@ Como estudiante de Ingeniería en Ciencias de la Computación, la lógica es la 
 
 - Revisión Gramatical: Optimización de la redacción en las secciones de reflexión personal.
 
+---
+## Portafolio 
+<p align="center">
+*<strong><a href="Portafolio.md">INICIO</a></strong>*
+</p>
+
 
 
 

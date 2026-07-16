@@ -51,7 +51,7 @@ Un **árbol** es una variación restringida de un grafo. Formalmente, un árbol 
 
 # 🚀 Redireccionamiento a Recursos en Google Drive
 
-Este repositorio sirve como puente de acceso directo a las carpetas organizadas en Google Drive para las distintas actividades académicas del ciclo. Haz clic en cualquiera de los siguientes enlaces para acceder a la documentación correspondiente:
+Este repositorio sirve como puente de acceso directo a las carpetas organizadas en Google Drive para las distintas actividades académicas del ciclo.
 
 ---
 

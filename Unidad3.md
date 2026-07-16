@@ -48,3 +48,36 @@ Un **árbol** es una variación restringida de un grafo. Formalmente, un árbol 
 | **Recorrido** | Pre-orden, In-orden, Post-orden. | Búsqueda en Anchura (BFS) y en Profundidad (DFS). |
 
 ---
+
+# 🚀 Redireccionamiento a Recursos en Google Drive
+
+Este repositorio sirve como puente de acceso directo a las carpetas organizadas en Google Drive para las distintas actividades académicas del ciclo. Haz clic en cualquiera de los siguientes enlaces para acceder a la documentación correspondiente:
+
+---
+
+## 📂 Carpetas de Trabajo
+
+### 👥 1. Aprendizaje Práctico Experimental (APE)
+*   **Descripción:** Contiene las guías, códigos prácticos, simulaciones y resoluciones de problemas experimentales aplicados durante el ciclo.
+*   **Enlace de Acceso:** 
+    👉 [**Acceder a la carpeta de APE en Google Drive**](https://drive.google.com/drive/folders/1beLWvLQRiSvcmYfuMi4aGUm-KwUdGfvh?usp=sharing)
+
+---
+
+### ✍️ 2. Aprendizaje Autónomo (AA)
+*   **Descripción:** Espacio destinado para las tareas individuales, investigaciones teóricas, lecturas y desarrollo independiente de contenido.
+*   **Enlace de Acceso:** 
+    👉 [**Acceder a la carpeta de AA en Google Drive**](https://drive.google.com/drive/folders/15sZWJARIOcjPmkoKLhHWLObDq_9RzTSZ?usp=sharing)
+
+---
+
+### 💬 3. Aprendizaje en Contacto con el Docente (ACD)
+*   **Descripción:** Registro de actividades sincrónicas, foros académicos, evaluaciones y trabajos colaborativos guiados directamente por el docente.
+*   **Enlace de Acceso:** 
+    👉 [**Acceder a la carpeta de ACD en Google Drive**](https://drive.google.com/drive/folders/1RxGE5w3a4MMhHPDTkgSa0AU2L1pUpsjq?usp=sharing)
+
+---
+
+## 💡 Instrucciones de Uso
+1. Selecciona la categoría de aprendizaje que se deseas revisar.
+2. Hacer clic en el enlace correspondiente para abrir la carpeta compartida en una nueva pestaña del navegador.
